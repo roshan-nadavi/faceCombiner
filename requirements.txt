@@ -1,0 +1,7 @@
+streamlit
+streamlit_image_coordinates
+numpy
+scipy
+scikit-image
+matplotlib
+pillow
